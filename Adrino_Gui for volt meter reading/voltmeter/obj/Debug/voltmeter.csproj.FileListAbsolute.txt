@@ -1,0 +1,10 @@
+C:\Users\Yathin\source\repos\voltmeter\bin\Debug\voltmeter.exe.config
+C:\Users\Yathin\source\repos\voltmeter\bin\Debug\voltmeter.exe
+C:\Users\Yathin\source\repos\voltmeter\bin\Debug\voltmeter.pdb
+C:\Users\Yathin\source\repos\voltmeter\obj\Debug\voltmeter.csproj.AssemblyReference.cache
+C:\Users\Yathin\source\repos\voltmeter\obj\Debug\voltmeter.Form1.resources
+C:\Users\Yathin\source\repos\voltmeter\obj\Debug\voltmeter.Properties.Resources.resources
+C:\Users\Yathin\source\repos\voltmeter\obj\Debug\voltmeter.csproj.GenerateResource.cache
+C:\Users\Yathin\source\repos\voltmeter\obj\Debug\voltmeter.csproj.CoreCompileInputs.cache
+C:\Users\Yathin\source\repos\voltmeter\obj\Debug\voltmeter.exe
+C:\Users\Yathin\source\repos\voltmeter\obj\Debug\voltmeter.pdb
