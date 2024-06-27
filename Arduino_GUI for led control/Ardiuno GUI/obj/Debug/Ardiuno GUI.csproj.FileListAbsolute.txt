@@ -1,0 +1,10 @@
+C:\Users\Yathin\source\repos\Ardiuno GUI\bin\Debug\Ardiuno GUI.exe.config
+C:\Users\Yathin\source\repos\Ardiuno GUI\bin\Debug\Ardiuno GUI.exe
+C:\Users\Yathin\source\repos\Ardiuno GUI\bin\Debug\Ardiuno GUI.pdb
+C:\Users\Yathin\source\repos\Ardiuno GUI\obj\Debug\Ardiuno GUI.csproj.AssemblyReference.cache
+C:\Users\Yathin\source\repos\Ardiuno GUI\obj\Debug\Ardiuno_GUI.Form1.resources
+C:\Users\Yathin\source\repos\Ardiuno GUI\obj\Debug\Ardiuno_GUI.Properties.Resources.resources
+C:\Users\Yathin\source\repos\Ardiuno GUI\obj\Debug\Ardiuno GUI.csproj.GenerateResource.cache
+C:\Users\Yathin\source\repos\Ardiuno GUI\obj\Debug\Ardiuno GUI.csproj.CoreCompileInputs.cache
+C:\Users\Yathin\source\repos\Ardiuno GUI\obj\Debug\Ardiuno GUI.exe
+C:\Users\Yathin\source\repos\Ardiuno GUI\obj\Debug\Ardiuno GUI.pdb
