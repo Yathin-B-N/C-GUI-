@@ -1,0 +1,10 @@
+C:\Users\Yathin\Desktop\caclulator giu\bin\Debug\caclulator giu.exe.config
+C:\Users\Yathin\Desktop\caclulator giu\bin\Debug\caclulator giu.exe
+C:\Users\Yathin\Desktop\caclulator giu\bin\Debug\caclulator giu.pdb
+C:\Users\Yathin\Desktop\caclulator giu\obj\Debug\caclulator giu.csproj.AssemblyReference.cache
+C:\Users\Yathin\Desktop\caclulator giu\obj\Debug\caclulator_giu.Form1.resources
+C:\Users\Yathin\Desktop\caclulator giu\obj\Debug\caclulator_giu.Properties.Resources.resources
+C:\Users\Yathin\Desktop\caclulator giu\obj\Debug\caclulator giu.csproj.GenerateResource.cache
+C:\Users\Yathin\Desktop\caclulator giu\obj\Debug\caclulator giu.csproj.CoreCompileInputs.cache
+C:\Users\Yathin\Desktop\caclulator giu\obj\Debug\caclulator giu.exe
+C:\Users\Yathin\Desktop\caclulator giu\obj\Debug\caclulator giu.pdb
